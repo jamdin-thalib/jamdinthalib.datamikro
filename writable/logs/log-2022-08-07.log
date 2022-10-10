@@ -1,0 +1,48 @@
+CRITICAL - 2022-08-07 20:56:18 --> Attempt to read property "jum_l" on array
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(42): view('frontend/profil...', Array)
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-07 20:56:53 --> Attempt to read property "jum_l" on array
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(42): view('frontend/profil...', Array)
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-07 21:52:38 --> Undefined array key "jum_pria"
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(42): view('frontend/profil...', Array)
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-08-07 21:52:49 --> Undefined array key "jumlah_pria"
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(42): view('frontend/profil...', Array)
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

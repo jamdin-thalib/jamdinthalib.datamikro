@@ -1,0 +1,24 @@
+CRITICAL - 2022-10-01 00:32:58 --> Trying to access array offset on value of type null
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\PrejectCi4\\d...', 47, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#6 {main}
+CRITICAL - 2022-10-01 00:33:59 --> Trying to access array offset on value of type null
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\PrejectCi4\\d...', 47, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#6 {main}
+CRITICAL - 2022-10-01 00:34:04 --> Trying to access array offset on value of type null
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\PrejectCi4\\d...', 47, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#6 {main}

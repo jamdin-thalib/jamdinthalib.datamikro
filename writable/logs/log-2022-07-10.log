@@ -1,0 +1,10 @@
+CRITICAL - 2022-07-10 20:13:25 --> Invalid file: frontend/header_profil.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/header...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/header...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(22): view('frontend/header...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->dasar()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}

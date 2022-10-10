@@ -1,0 +1,40 @@
+CRITICAL - 2022-07-07 20:15:44 --> Invalid file: frontend/obout.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/obout....')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/obout', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(28): view('frontend/obout')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->faq()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-07-07 20:16:43 --> Invalid file: frontend/obout.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/obout....')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/obout', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(28): view('frontend/obout')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->faq()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-07-07 20:16:45 --> Invalid file: frontend/obout.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/obout....')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/obout', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(28): view('frontend/obout')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->faq()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-07-07 20:16:48 --> Invalid file: frontend/obout.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/obout....')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/obout', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(28): view('frontend/obout')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->faq()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}

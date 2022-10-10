@@ -1,0 +1,140 @@
+CRITICAL - 2022-08-03 00:05:07 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:05:17 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Profil.php(352): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:05:31 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:06:18 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:06:25 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Home.php(39): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Home->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:16:37 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:17:43 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:21:19 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:21:24 --> Invalid file: front_end/profil/print/1/2.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(17): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak2()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:21:29 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(13): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:21:32 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(13): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:21:39 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(13): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:22:33 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(13): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
+CRITICAL - 2022-08-03 00:24:07 --> Invalid file: front_end/profil/print/1/1.php
+#0 D:\PrejectCi4\datamikro.diskominfo.go.id\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front_end/profi...')
+#1 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('front_end/profi...', Array, true)
+#2 D:\PrejectCi4\datamikro.diskominfo.go.id\app\Controllers\Cetak.php(13): view('front_end/profi...')
+#3 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Cetak->cetak1()
+#4 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cetak))
+#5 D:\PrejectCi4\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\PrejectCi4\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\PrejectCi4\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#8 {main}
