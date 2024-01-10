@@ -40,6 +40,19 @@ class Model_Pend_Usia extends Model
             $this->orderBy(key($order), $order[key($order)]);
         }
     }
+    // public function get_relasi()
+    // {
+    //     $this->db->select('penddk_usia.id as id, penddk_usia.selesai_pemantauan as selesai_pemantauan, penddk_usia.proses_pemantauan as proses_pemantauan, kecamatan.kecamatan as kecamatan');
+    //     $this->db->from('penddk_usia');
+    //     $this->db->join('kecamatan', 'kecamatan.id = penddk_usia.id_kecamatan');
+    //     $query = $this->db->get();
+    //     return $query;
+    // }
+    // public function get_jumlah_pend()
+    // {
+    //     $query = $this->db->get('penddk_usia');
+    //     return $query;
+    // }
     public function get_datatables()
     {
         $this->_get_datatables_query();

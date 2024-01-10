@@ -34,9 +34,7 @@
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
-					<?php foreach ($totalPertahun as $row) : ?>
-						<th style="text-align:center"><?= $row['nama'] ?></th>
-					<?php endforeach ?>
+					<th style="text-align:center">2021</th>
 					<th style="text-align:center">2022</th>
 				</tr>
 			</thead>
@@ -69,9 +67,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -82,9 +78,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -95,9 +89,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -108,9 +100,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -121,9 +111,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -134,9 +122,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_0_5'] + $row['l_0_5'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -158,9 +144,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -171,9 +155,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -184,9 +166,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -197,9 +177,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -210,9 +188,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -223,16 +199,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_6_10'] + $row['l_6_10'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>11-15 Tahun</i></strong></td>
+					<td><strong> 3.Jumlah Penduduk Usia<i>11-15 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -247,9 +221,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -260,9 +232,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -273,9 +243,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -286,9 +254,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -299,9 +265,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -312,16 +276,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_11_15'] + $row['l_11_15'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>16-20 Tahun</i></strong></td>
+					<td><strong> 4.Jumlah Penduduk Usia<i>16-20 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -336,9 +298,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -349,9 +309,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -362,9 +320,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -375,9 +331,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -388,9 +342,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -401,16 +353,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_16_20'] + $row['l_16_20'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>21-25 Tahun</i></strong></td>
+					<td><strong> 5.Jumlah Penduduk Usia<i>21-25 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -425,9 +375,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -438,9 +386,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -451,9 +397,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -464,9 +408,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -477,9 +419,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -490,16 +430,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_21_25'] + $row['l_21_25'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>26-30 Tahun</i></strong></td>
+					<td><strong> 6.Jumlah Penduduk Usia<i>26-30 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -514,9 +452,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -527,9 +463,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -540,9 +474,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -553,9 +485,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -566,9 +496,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -579,16 +507,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_26_30'] + $row['l_26_30'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>31-35 Tahun</i></strong></td>
+					<td><strong> 7.Jumlah Penduduk Usia<i>31-35 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -603,9 +529,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -616,9 +540,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -629,9 +551,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -642,9 +562,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -655,9 +573,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -668,16 +584,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_31_35'] + $row['l_31_35'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>36-40 Tahun</i></strong></td>
+					<td><strong> 8.Jumlah Penduduk Usia<i>36-40 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -692,9 +606,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -705,9 +617,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -718,9 +628,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -731,9 +639,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -744,9 +650,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -757,16 +661,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_36_40'] + $row['l_36_40'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>41-45 Tahun</i></strong></td>
+					<td><strong> 9.Jumlah Penduduk Usia<i>41-45 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -781,9 +683,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -794,9 +694,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -807,9 +705,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -820,9 +716,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -833,9 +727,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -846,16 +738,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_41_45'] + $row['l_41_45'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>50-55 Tahun</i></strong></td>
+					<td><strong> 10.Jumlah Penduduk Usia<i>50-55 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -870,9 +760,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -883,9 +771,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -896,9 +782,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -909,9 +793,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -922,9 +804,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -935,16 +815,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_51_55'] + $row['l_51_55'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>56-60 Tahun</i></strong></td>
+					<td><strong> 11.Jumlah Penduduk Usia<i> 56-60 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -959,9 +837,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -972,9 +848,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -985,9 +859,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -998,9 +870,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1011,9 +881,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1024,16 +892,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_56_60'] + $row['l_56_60'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>61-65 Tahun</i></strong></td>
+					<td><strong>12.Jumlah Penduduk Usia<i> 61-65 Tahun</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1048,9 +914,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1061,9 +925,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1074,9 +936,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1087,9 +947,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1100,9 +958,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1113,16 +969,14 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_61_65'] + $row['l_61_65'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2.Jumlah Penduduk Usia<i>66 Tahun Keatas</i></strong></td>
+					<td><strong>13.Jumlah Penduduk Usia<i> 66 Tahun Keatas</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1137,9 +991,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($kaidipang as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1150,9 +1002,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($pinogaluman as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1163,9 +1013,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bolbar as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1176,9 +1024,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($boltim as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1189,9 +1035,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($bintauna as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>
@@ -1202,9 +1046,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<?php foreach ($sangkub as $row) : ?>
-						<td align="center" style="color: black"><?= $row['p_66_plus'] + $row['l_66_plus'] ?></td>
-					<?php endforeach ?>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Jiwa</td>
 					<td width="170" align="center">Desa Se Kab. Bolmut</td>

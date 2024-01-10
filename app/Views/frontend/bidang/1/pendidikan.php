@@ -8,7 +8,6 @@
 <div class="section-grey">
 	<!--begin container-->
 	<div class="container">
-
 		<!--begin row-->
 		<div class="row margin-bottom-50">
 			<div class="col-md-10 col-md-offset-1 text-center">
@@ -65,8 +64,8 @@
 										data: [
 											207.65,
 											20.77,
-											0,
-											0,
+											210.1,
+											21.5,
 										]
 									}]
 								});
@@ -95,7 +94,7 @@
 									<td><strong>Angka Partisipasi Kasar (APK)</strong></td>
 									<td align="center">207.65</td>
 									<td align="center">20.767</td>
-									<td align="center"></td>
+									<td align="center">21.0</td>
 									<td align="center"></td>
 									<td style="text-align:center">%</td>
 								</tr>
@@ -103,7 +102,7 @@
 									<td>APK Jenjang SD/MI/Sederajat</td>
 									<td align="center">103.16</td>
 									<td align="center">103.17</td>
-									<td align="center"></td>
+									<td align="center">21.2</td>
 									<td align="center"></td>
 									<td align="center">%</td>
 								</tr>
@@ -111,7 +110,7 @@
 									<td>APK Jenjang SMP/MTs/Sederajat</td>
 									<td align="center">104.49</td>
 									<td align="center">104.5</td>
-									<td align="center"></td>
+									<td align="center">21.5</td>
 									<td align="center"></td>
 									<td align="center">%</td>
 								</tr>
@@ -163,8 +162,8 @@
 										data: [
 											186.48,
 											18.65,
-											0,
-											0,
+											21.2,
+											21.5,
 										]
 									}]
 								});

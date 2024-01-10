@@ -1,0 +1,80 @@
+CRITICAL - 2023-12-18 20:12:11 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 20:26:04 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 22:58:05 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 23:00:08 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 23:06:33 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 23:06:35 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 23:16:47 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-12-18 23:17:15 --> Unclosed '{' on line 48
+#0 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#2 C:\xampp\htdocs\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#3 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#4 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#5 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

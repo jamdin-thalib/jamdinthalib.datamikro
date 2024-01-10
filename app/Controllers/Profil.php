@@ -43,31 +43,31 @@ class Profil extends BaseController
         //     'bintauna'   => $this->getApi('http://192.168.100.16/etika/public/api')['bintauna'],
         //     'sangkub'   => $this->getApi('http://192.168.100.16/etika/public/api')['sangkub'],
         // ];
-        $data = [
-            'totalPertahun' => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['total'],
-            'pinogaluman'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['pinogaluman'],
-            'kaidipang'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['kaidipang'],
-            'bolbar'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bolbar'],
-            'boltim'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['boltim'],
-            'bintauna'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bintauna'],
-            'sangkub'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['sangkub'],
-        ];
+        // $data = [
+        //     'totalPertahun' => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['total'],
+        //     'pinogaluman'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['pinogaluman'],
+        //     'kaidipang'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['kaidipang'],
+        //     'bolbar'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bolbar'],
+        //     'boltim'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['boltim'],
+        //     'bintauna'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bintauna'],
+        //     'sangkub'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['sangkub'],
+        // ];
         echo view('frontend/profil/index/header');
-        echo view('frontend/profil/index/2/1', $data);
+        echo view('frontend/profil/index/2/1');
     }
     public function profil4()
     {
-        $data = [
-            'totalPertahun' => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['total'],
-            'pinogaluman'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['pinogaluman'],
-            'kaidipang'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['kaidipang'],
-            'bolbar'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bolbar'],
-            'boltim'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['boltim'],
-            'bintauna'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bintauna'],
-            'sangkub'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['sangkub'],
-        ];
+        // $data = [
+        //     'totalPertahun' => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['total'],
+        //     'pinogaluman'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['pinogaluman'],
+        //     'kaidipang'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['kaidipang'],
+        //     'bolbar'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bolbar'],
+        //     'boltim'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['boltim'],
+        //     'bintauna'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['bintauna'],
+        //     'sangkub'   => $this->getApi('http://etika.diskominfo.bolmutkab.go.id/api')['sangkub'],
+        // ];
         echo view('frontend/profil/index/header');
-        echo view('frontend/profil/index/2/2', $data);
+        echo view('frontend/profil/index/2/2');
     }
     public function profil5()
     {

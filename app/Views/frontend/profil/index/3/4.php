@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -46,39 +43,29 @@
 
 				<tr>
 					<td align="center"><strong>IV.</strong></td>
-					<td><strong>Sasaran Imunisasi Bayi / Balita</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td><strong>Total Jumlah Sasaran Imunisasi Bayi / Balita</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
-
 				<tr>
 					<td></td>
 					<td><strong>1. Jumlah Banyakya Bayi / Balita</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -95,18 +82,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -123,9 +104,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -137,18 +115,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -160,37 +132,28 @@
 				<tr>
 					<td></td>
 					<td><strong>2. Pelayanan Imunisasi Bayi / Balita</strong></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>a. Pelayanan Imunisasi Bcg</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -207,18 +170,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -235,9 +192,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -249,18 +203,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -273,23 +221,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>b. Pelayanan Imunisasi Dpt Hb Combo1</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -306,18 +248,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -334,9 +270,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -348,18 +281,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -371,23 +298,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>c. Pelayanan Imunisasi Dpt Hb Combo2</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -404,18 +325,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -432,9 +347,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -446,18 +358,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -470,23 +376,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>d. Pelayanan Imunisasi Dpt Hb Combo3</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -503,18 +403,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -531,9 +425,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -545,18 +436,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -568,23 +453,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>e. Pelayanan Imunisasi Polio 1</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -601,18 +480,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -629,9 +502,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -643,18 +513,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -666,23 +530,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>f. Pelayanan Imunisasi Polio 2</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -699,18 +557,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -727,9 +579,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -741,18 +590,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -764,23 +607,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>g. Pelayanan Imunisasi Polio 3</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -797,18 +634,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -825,9 +656,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -839,18 +667,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -862,23 +684,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>h. Pelayanan Imunisasi Polio 4</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -895,18 +711,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -923,9 +733,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -937,18 +744,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -960,23 +761,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>i. Pelayanan Imunisasi Campak</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -993,18 +788,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1021,9 +810,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -1035,18 +821,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1059,23 +839,17 @@
 					<td></td>
 					<td style="padding-left:22px"><strong>j. Pelayanan Imunisasi HB 1 < 7 hari</strong>
 					</td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1092,18 +866,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1120,9 +888,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -1134,18 +899,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1157,23 +916,17 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px"><strong>k. Pelayanan Imunisasi HB 1 > 7 hari</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">15</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1190,18 +943,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -1218,9 +965,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -1232,18 +976,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

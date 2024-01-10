@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -52,18 +49,10 @@
 					<td></td>
 					<td></td>
 					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>1. Luas Wilayah</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -80,18 +69,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Km2</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">2. Luas Laut</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -109,9 +92,6 @@
 					<td align="center"></td>
 					<td align="center"></td>
 					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
@@ -122,10 +102,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">LU</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
@@ -136,10 +113,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">BJ</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
@@ -150,10 +124,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">LS</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
@@ -164,18 +135,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">BB</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>3. Batas Wilayah</td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
 					<td align="center"></td>
 					<td align="center"></td>
 					<td align="center"></td>
@@ -188,9 +153,6 @@
 					<td></td>
 					<td style="padding-left:22px">1. Sebelah Utara </td>
 					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -201,9 +163,6 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">2. Sebelah Timur </td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -216,9 +175,6 @@
 					<td></td>
 					<td style="padding-left:22px">3. Sebelah Selatan </td>
 					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -229,9 +185,6 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">4. Sebelah Barat </td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
-					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">0</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -249,17 +202,11 @@
 					<td align="center"></td>
 					<td align="center"></td>
 					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">1. Curah Hujan Rata-Rata</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -276,9 +223,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
@@ -290,18 +234,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">4. Tingkat Kelembapan</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -319,17 +257,11 @@
 					<td align="center"></td>
 					<td align="center"></td>
 					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
-					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">1. Kecamatan Dan Kabupaten/Kota</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -346,18 +278,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
+					<td align="center">KM</td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">1. Kota Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">1. Kecamatan Pinogaluman</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -368,24 +294,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">2. Kota Selatan</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
-					<td width="170" align="center">Badan Pertanahan Nasional</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:48px">3. Kota Utara</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">2. Kecamatan Kaidipang</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -396,24 +305,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">4. Dungingi</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
-					<td width="170" align="center">Badan Pertanahan Nasional</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:48px">5. Kota Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">3. Kecamatan Bolangitang Barat</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -424,24 +316,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">6. Kota Tengah</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
-					<td width="170" align="center">Badan Pertanahan Nasional</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:48px">7. Sipatana</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">4. Kecamatan Bolangitang Timur</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -452,10 +327,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">8. Dumbo Raya</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">5. Kecamatan Bintauna</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -466,10 +338,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:48px">9. Hulonthalangi</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:48px">6. Kecamatan Sangkub</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -486,46 +355,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:48px">1. Kabupaten</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
-					<td width="170" align="center">Badan Pertanahan Nasional</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Jumlah Luas Kota</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center"></td>
-					<td width="170" align="center">Badan Pertanahan Nasional</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:48px">1. Kota</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -542,18 +377,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Jumlah Desa Memiliki Batas Wilayah </td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -570,9 +399,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
@@ -584,18 +410,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center"></td>
 					<td width="170" align="center">Badan Pertanahan Nasional</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Jumlah Kelurahan Belum Memiliki Batas Wilayah </td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

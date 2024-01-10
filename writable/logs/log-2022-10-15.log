@@ -1,0 +1,56 @@
+CRITICAL - 2022-10-15 17:09:34 --> Trying to access array offset on value of type null
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\PrejectCi4\\d...', 47, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#6 {main}
+CRITICAL - 2022-10-15 17:10:40 --> Undefined variable: totalPertahun
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\PrejectCi4\\d...', 37, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(210): include('D:\\PrejectCi4\\d...')
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#10 {main}
+CRITICAL - 2022-10-15 17:12:28 --> Undefined variable: totalPertahun
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\PrejectCi4\\d...', 37, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(210): include('D:\\PrejectCi4\\d...')
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#10 {main}
+CRITICAL - 2022-10-15 17:13:05 --> Undefined variable: boltim
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\1.php(179): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\PrejectCi4\\d...', 179, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(210): include('D:\\PrejectCi4\\d...')
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(56): view('frontend/profil...')
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil3()
+#6 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#10 {main}
+CRITICAL - 2022-10-15 17:14:13 --> Undefined variable: totalPertahun
+#0 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Views\frontend\profil\index\2\2.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\PrejectCi4\\d...', 37, Array)
+#1 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(210): include('D:\\PrejectCi4\\d...')
+#2 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Common.php(1089): CodeIgniter\View\View->render('frontend/profil...', Array, true)
+#4 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\app\Controllers\Profil.php(70): view('frontend/profil...')
+#5 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(832): App\Controllers\Profil->profil4()
+#6 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+#7 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PrejectCi4\dari sahrul\datamikro.diskominfo.go.id\system\Commands\Server\rewrite.php(43): require_once('D:\\PrejectCi4\\d...')
+#10 {main}

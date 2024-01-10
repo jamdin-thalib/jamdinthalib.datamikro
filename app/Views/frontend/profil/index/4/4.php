@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -46,23 +43,17 @@
 				<tr>
 					<td align="center"><strong>I.</strong></td>
 					<td><strong>Jumlah Penggunaan Lahan Bukan Sawah (Hektar)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">1. Jumlah Lahan Tegal / Kebun</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>1. Jumlah Lahan Tegal / Kebun</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -79,18 +70,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -107,18 +92,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -135,9 +114,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
@@ -149,18 +125,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">2. Jumlah Lahan Ladang / Huma</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>2. Jumlah Lahan Ladang / Huma</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -177,18 +147,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -205,18 +169,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -233,9 +191,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
@@ -247,18 +202,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">3. Jumlah Lahan Perkebunan</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>3. Jumlah Lahan Perkebunan</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -275,18 +224,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -303,18 +246,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -331,9 +268,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
@@ -345,18 +279,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">4. Jumlah Lahan Hutan Rakyat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>4. Jumlah Lahan Hutan Rakyat</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -373,18 +301,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -401,18 +323,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -429,9 +345,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
@@ -443,18 +356,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">5. Jumlah Lahan Hutan Negara</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>5. Jumlah Lahan Hutan Negara</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -471,18 +378,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -499,18 +400,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -527,9 +422,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
@@ -541,18 +433,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">6. Jumlah Lahan Tanah HGU</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>6. Jumlah Lahan Tanah HGU</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -569,18 +455,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -597,18 +477,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -625,18 +499,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
