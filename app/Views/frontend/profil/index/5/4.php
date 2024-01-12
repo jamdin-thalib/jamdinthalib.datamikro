@@ -3,7 +3,7 @@
 
 		<div class="left">
 			<div class="title">Sosial Keagamaan</div>
-			<div class="subitle">Jumlah Kejadian Kerawanan Sosial dan Linmas</div>
+			<div class="subitle">Banyaknya Kejadian Kerawanan Sosial dan Linmas</div>
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -46,30 +43,24 @@
 				<tr>
 					<td align="center"><strong>I.</strong></td>
 					<td><strong>Kejadian Kerwanan Sosial</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">1. Jumlah Perkelahian Masal</td>
+					<td style="padding-left:22px">1. Banyaknya Perkelahian Masal</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -79,11 +70,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -93,11 +81,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -107,11 +92,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -121,11 +103,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -135,11 +114,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -149,25 +125,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">2. Jumlah Bunuh Diri</td>
+					<td style="padding-left:22px">2. Banyaknya Bunuh Diri</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -177,11 +147,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -191,11 +158,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -205,11 +169,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -219,11 +180,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -233,11 +191,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -247,25 +202,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">3. Jumlah Perkosaan</td>
+					<td style="padding-left:22px">3. Banyaknya Perkosaan</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -275,11 +224,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -289,11 +235,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -303,11 +246,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -317,11 +257,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -331,11 +268,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -345,25 +279,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">4. Jumlah Pembunuhan</td>
+					<td style="padding-left:22px">4. Banyaknya PembunuBanyaknyan</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -373,11 +301,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -387,11 +312,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -401,11 +323,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -415,11 +334,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -429,11 +345,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -443,40 +356,31 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 
 				<tr>
 					<td align="center"><strong>II.</strong></td>
 					<td><strong>Kejadian Linmas</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">1. Jumlah Pos Ronda</td>
+					<td style="padding-left:22px">1. Banyaknya Pos Ronda</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -486,11 +390,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -500,11 +401,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -514,11 +412,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -528,11 +423,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -542,11 +434,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -556,25 +445,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">2. Jumlah Pos Hansip</td>
+					<td style="padding-left:22px">2. Banyaknya Pos Banyaknyansip</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -584,11 +467,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -598,11 +478,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -612,11 +489,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -626,11 +500,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -640,11 +511,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -654,25 +522,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">3. Jumlah Tenaga Linmas</td>
+					<td style="padding-left:22px">3. Banyaknya Tenaga Linmas</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -682,11 +544,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -696,11 +555,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -710,11 +566,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -724,11 +577,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -738,11 +588,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -752,11 +599,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Banyaknya</td>
+					<td width="170" align="center">Pemerintahan Desa</td>
 				</tr>
 				<tr>
 			</tbody>

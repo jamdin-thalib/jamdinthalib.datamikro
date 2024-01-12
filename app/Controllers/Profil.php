@@ -147,7 +147,7 @@ class Profil extends BaseController
     public function profil20()
     {
         echo view('frontend/profil/index/header');
-        echo view('frontend/profil/index/4/');
+        echo view('frontend/profil/index/4/5');
     }
     public function profil21()
     {

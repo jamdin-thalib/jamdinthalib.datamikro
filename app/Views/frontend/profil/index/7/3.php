@@ -3,7 +3,7 @@
 
 		<div class="left">
 			<div class="title">Perdagangan Industri dan Energi</div>
-			<div class="subitle">Jumlah Fasilitas Usaha Industri Kecil Menengah</div>
+			<div class="subitle">Jumlah Fasilitas UsaBuah Industri Kecil Menengah</div>
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -46,16 +43,13 @@
 				<tr>
 					<td align="center"><strong>I.</strong></td>
 					<td><strong>Jumlah Industri Kecil Menengah Somil</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -65,11 +59,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -79,11 +70,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -93,11 +81,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -107,11 +92,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -121,11 +103,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -135,25 +114,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>II.</strong></td>
 					<td><strong>Jumlah Industri Kecil Menengah Meubel</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -163,11 +136,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -177,11 +147,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -191,11 +158,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -205,11 +169,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -219,11 +180,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -233,25 +191,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>III.</strong></td>
 					<td><strong>Jumlah Industri Kulit (Tas, Sepatu dll)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -261,11 +213,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -275,11 +224,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -289,11 +235,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -303,11 +246,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -317,11 +257,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -331,25 +268,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>IV.</strong></td>
 					<td><strong>Jumlah Industri Logam Mulia</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -359,11 +290,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -373,11 +301,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -387,11 +312,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -401,11 +323,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -415,11 +334,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -429,25 +345,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>V.</strong></td>
 					<td><strong>Jumlah Industri Gerabah (Batu Bata dll)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -457,11 +367,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -471,11 +378,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -485,11 +389,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -499,11 +400,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -513,11 +411,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -527,25 +422,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>VI.</strong></td>
 					<td><strong>Jumlah Industri Kan (Konveksi Jahit dll)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -555,11 +444,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -569,11 +455,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -583,11 +466,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -597,11 +477,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -611,11 +488,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -625,25 +499,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>VII.</strong></td>
 					<td><strong>Jumlah Industri Anyaman (Rotan, Bambu dll)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -653,11 +521,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -667,11 +532,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -681,11 +543,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -695,11 +554,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -709,11 +565,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -723,25 +576,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>VIII.</strong></td>
 					<td><strong>Jumlah Industri Makan Minum (Kue dll)</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -751,11 +598,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -765,11 +609,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -779,11 +620,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -793,11 +631,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -807,11 +642,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -821,25 +653,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>IX.</strong></td>
-					<td><strong>Jumlah Usaha Depot Air Minum</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td><strong>Jumlah UsaBuah Depot Air Minum</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -849,11 +675,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -863,11 +688,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -877,11 +701,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -891,11 +714,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -905,11 +727,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -919,25 +740,19 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td align="center"><strong>X.</strong></td>
 					<td><strong>Jumlah Usaha Gula Aren</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -947,11 +762,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -961,11 +773,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -975,11 +784,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -989,11 +795,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -1003,11 +806,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -1017,11 +817,8 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 
 			</tbody>
