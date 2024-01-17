@@ -3,7 +3,7 @@
 
 		<div class="left">
 			<div class="title">Perdagangan Industri dan Energi</div>
-			<div class="subitle">Jumlah Rumah Tangga Menurut Bahan Bakar / Energi Utama untuk Memasak</div>
+			<div class="subitle">Jumlah Rumah Tangga Menurut BaBuahn Bakar / Energi Utama untuk Memasak</div>
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
@@ -120,17 +120,23 @@
 				<tr>
 					<td align="center"><strong>II.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan LPG 12Kg</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -147,12 +153,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -169,6 +181,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -180,12 +195,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -197,17 +218,23 @@
 				<tr>
 					<td align="center"><strong>III.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan LPG 5Kg</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -224,12 +251,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -246,6 +279,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -257,12 +293,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -274,17 +316,23 @@
 				<tr>
 					<td align="center"><strong>IV.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan LPG 3Kg</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -301,12 +349,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -323,6 +377,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -334,12 +391,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -351,17 +414,23 @@
 				<tr>
 					<td align="center"><strong>V.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan Briket</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -378,12 +447,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -400,6 +475,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -411,12 +489,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -428,17 +512,23 @@
 				<tr>
 					<td align="center"><strong>VI.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan Arang</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -455,12 +545,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -477,6 +573,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -488,12 +587,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -505,17 +610,23 @@
 				<tr>
 					<td align="center"><strong>VII.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan Kayu Bakar</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -532,12 +643,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -554,6 +671,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -565,12 +685,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -582,17 +708,23 @@
 				<tr>
 					<td align="center"><strong>VIII.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan Minyak Tanah</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -609,12 +741,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -631,6 +769,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -642,12 +783,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -659,17 +806,23 @@
 				<tr>
 					<td align="center"><strong>IX.</strong></td>
 					<td><strong>Jumlah Energi Utama Memasak Menggunakan Lainya</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Pergdaginkop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -686,12 +839,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -708,6 +867,9 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
@@ -719,12 +881,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pergdaginkop</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

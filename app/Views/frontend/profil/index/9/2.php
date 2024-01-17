@@ -27,11 +27,14 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="5">Tahun</th>
+					<th style="text-align:center" colspan="8">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
+					<th style="text-align:center">2015</th>
+					<th style="text-align:center">2016</th>
+					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -43,13 +46,16 @@
 				<tr>
 					<td align="center"><strong>I.</strong></td>
 					<td><strong>Jumlah Fasilitas Perbankan</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
@@ -59,8 +65,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -70,8 +79,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -81,8 +93,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -92,8 +107,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -103,8 +121,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -114,8 +135,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -125,8 +149,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -136,8 +163,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -147,8 +177,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -158,8 +191,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -169,8 +205,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -180,8 +219,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -191,8 +233,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -202,8 +247,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -213,8 +261,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -224,8 +275,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -235,8 +289,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -246,8 +303,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -257,8 +317,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -268,8 +331,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -279,8 +345,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -290,8 +359,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -301,8 +373,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -312,8 +387,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -323,8 +401,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -334,8 +415,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -345,8 +429,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -356,8 +443,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pemuda dan Olahraga</td>
 				</tr>
 			</tbody>
 		</table>

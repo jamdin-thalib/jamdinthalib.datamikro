@@ -3,7 +3,7 @@
 
 		<div class="left">
 			<div class="title">Perdagangan Industri dan Energi</div>
-			<div class="subitle">Jumlah UsaBuah Penggalian/Pertambangan Rakyat</div>
+			<div class="subitle">Jumlah Usaha Penggalian/Pertambangan Rakyat</div>
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
@@ -27,11 +27,14 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="5">Tahun</th>
+					<th style="text-align:center" colspan="8">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
+					<th style="text-align:center">2015</th>
+					<th style="text-align:center">2016</th>
+					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -42,102 +45,31 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Jumlah UsaBuah Penggalian/Pertambangan Rakyat</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td><strong>Jumlah Usaha Penggalian/Pertambangan Rakyat</strong></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>1. Jumlah UsaBuah Penggalian/Pertambangan Rakyat <i> (Emas)</i></strong></td>
+					<td><strong>1. Jumlah Usaha Penggalian/Pertambangan Rakyat <i> (Emas)</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td><strong>2. Jumlah UsaBuah Penggalian/Pertambangan Rakyat <i> (Pasir)</i></strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -147,8 +79,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -158,8 +93,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -169,8 +107,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -180,8 +121,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -191,8 +135,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -202,19 +149,25 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>3. Jumlah UsaBuah Penggalian/Pertambangan Rakyat <i> (Kerikil)</i></strong></td>
+					<td><strong>2. Jumlah Usaha Penggalian/Pertambangan Rakyat <i> (Pasir)</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -224,8 +177,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -235,8 +191,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -246,8 +205,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -257,8 +219,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -268,8 +233,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -279,19 +247,25 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>4. Jumlah UsaBuah Penggalian/Pertambangan Rakyat <i> (Batu Gunung)</i></strong></td>
+					<td><strong>3. Jumlah Usaha Penggalian/Pertambangan Rakyat <i> (Kerikil)</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -301,8 +275,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -312,8 +289,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -323,8 +303,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -334,8 +317,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -345,8 +331,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -356,19 +345,25 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>4. Jumlah UsaBuah Penggalian/Pertambangan Rakyat <i> (Lainya...)</i></strong></td>
+					<td><strong>4. Jumlah Usaha Penggalian/Pertambangan Rakyat <i> (Batu Gunung)</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -378,8 +373,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -389,8 +387,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -400,8 +401,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -411,8 +415,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -422,8 +429,11 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
@@ -433,8 +443,109 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Pemerintah Desa</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><strong>4. Jumlah Usaha Penggalian/Pertambangan Rakyat <i> (Lainya...)</i></strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 
 			</tbody>

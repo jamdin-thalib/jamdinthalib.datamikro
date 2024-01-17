@@ -6,7 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>DATA MIKRO :: BOLMUT</title>
+	<title>E-DATABASE :: KOTA GORONTALO</title>
 	<link href="<?= base_url('assets/v2/css/font-awesome.min.css') ?>" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="../../../favicon.ico" />
 	<style type="text/css">
@@ -89,7 +89,7 @@
 	</div>
 	<div class="page-header">
 		<h3>SISTEM INFORMASI PEMBANGUNAN DAERAH</h3>
-		<h3>KABUPATEN BOLAANG MONGONDOW UTARA PROVINSI SULAWESI UTARA</h3>
+		<h3>KOTA GORONTALO</h3>
 	</div>
 	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="noborder">
 		<tr>
@@ -98,10 +98,6 @@
 					<tr>
 						<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
 						<td class="noborder" valign="top" colspan="7"><b>UMUM</b></td>
-					</tr>
-					<tr>
-						<td class="noborder" valign="top" width="110"><b> </b></td>
-						<td class="noborder" valign="top" colspan="12">Geografis</td>
 					</tr>
 				</table>
 			</td>
@@ -113,10 +109,14 @@
 						<tr>
 							<th rowspan="2" width="30">#</th>
 							<th rowspan="2">JENIS DATA</th>
-							<th colspan="5">TAHUN</th>
+							<th colspan="9">TAHUN</th>
 							<th rowspan="2" width="90">SATUAN</th>
 						</tr>
 						<tr>
+							<th width="70">2014</th>
+							<th width="70">2015</th>
+							<th width="70">2016</th>
+							<th width="70">2017</th>
 							<th width="70">2018</th>
 							<th width="70">2019</th>
 							<th width="70">2020</th>
@@ -128,16 +128,24 @@
 						<tr height="26" valign="top">
 							<td width="30" align="center"><strong>I.</strong></td>
 							<td width="280"><strong>Geografis</strong></td>
-							<td align="center"></td>
-							<td align="center"></td>
-							<td align="center"></td>
-							<td align="center"></td>
-							<td align="center"></td>
-							<td align="center" valign="top"></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280">1. Luas Wilayah</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -153,11 +161,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">2. Luas Laut</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -173,11 +189,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">1. Lintang Utara</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -193,11 +217,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">3. Lintang Selatan</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -213,6 +245,10 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
@@ -223,12 +259,20 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">1. Sebelah Utara </td>
-							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -238,7 +282,11 @@
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">2. Sebelah Timur </td>
-							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -249,6 +297,10 @@
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">3. Sebelah Selatan </td>
 							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -258,6 +310,10 @@
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">4. Sebelah Barat </td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
+							<td align="center" valign="top">0</td>
 							<td align="center" valign="top">0</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -273,11 +329,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">1. Curah Hujan Rata-Rata</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -293,11 +357,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">3. Temperature</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -313,11 +385,19 @@
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center" valign="top"></td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280">5. Kewilayahan</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -333,12 +413,20 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">1. Jumlah Luas Kecamatan</td>
 							<td align="center" valign="top">79.03</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -353,12 +441,20 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:55px">2. Kota Selatan</td>
 							<td align="center" valign="top">2.81</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -373,12 +469,20 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:55px">4. Dungingi</td>
 							<td align="center" valign="top">4.67</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -393,12 +497,20 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:55px">6. Kota Tengah</td>
 							<td align="center" valign="top">4.81</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -413,12 +525,20 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:55px">8. Dumbo Raya</td>
 							<td align="center" valign="top">14.04</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -433,11 +553,19 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">2. Jumlah Luas Kabupaten</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -453,11 +581,19 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">3. Jumlah Luas Kota</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -473,11 +609,19 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">km2</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:22px">2. Batas Wilayah Desa/Kelurahan</td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
+							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -493,11 +637,19 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">buah</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">2. Jumlah Desa Belum Memiliki Batas Wilayah </td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -513,11 +665,19 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">buah</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">4. Jumlah Kelurahan Belum Memiliki Batas Wilayah </td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
