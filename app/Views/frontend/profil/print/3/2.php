@@ -99,13 +99,33 @@
 									<td width="30" align="center"><strong>II.</strong></td>
 									<td width="280"><strong>Pusat Pelayanan Kesehatan</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
 									<td></td>
-								</tr><tr valign="top">
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">1. Jumlah Rumah Sakit</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
+									<td width="280">1. Jumlah Rumah Sakit</td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
+									<td align="center"></td>
 									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Rumah Sakit Umum Daerah</td><td align="center" valign="top">2</td><td align="center" valign="top">2</td><td align="center" valign="top">2</td><td align="center" valign="top">2</td><td align="center" valign="top">2</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
+									<td width="280" style="padding-left:22px">1. Rumah Sakit Umum Daerah</td>
+									<td align="center" valign="top">2</td>
+									<td align="center" valign="top">2</td>
+									<td align="center" valign="top">2</td>
+									<td align="center" valign="top">2</td>
+									<td align="center" valign="top">2</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
 									<td align="center" valign="top">Unit</td>
 								</tr><tr valign="top">
 									<td width="30"></td>

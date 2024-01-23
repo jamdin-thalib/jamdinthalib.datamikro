@@ -7,7 +7,7 @@
         </div>
         <div class="right">
             <div style="text-align: right;padding: 5px 0 5px;">
-                <a href="<?= base_url('cetak/cetak3') ?>" target="_blank" class="btn_style">
+                <a href="<?= base_url('cetak/cetak7') ?>" target="_blank" class="btn_style">
                     <img src="../../../themes/v2/images/print.gif" alt="" /> Print
                 </a>
             </div>
@@ -42,16 +42,18 @@
 
                 <tr>
                     <td align="center"><strong>I.</strong></td>
-                    <td><strong>Penduduk RTS Kemiskinan</strong></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td><strong>Total Jumlah Penduduk RTS Kemiskinan</strong></td>
+                    <td align="center" style="color: black">n/a</td>
+                    <td align="center" style="color: black">n/a</td>
+                    <td align="center" style="color: black">n/a</td>
+                    <td align="center" style="color: black">n/a</td>
+                    <td align="center" style="color: black">n/a</td>
+                    <td align="center">Jiwa</td>
+                    <td width="170" align="center">Desa se Kab. Bolmut</td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong>1. Sangat Miskin</strong></td>
+                    <td><strong>1. Jumlah Penduduk Sangat Miskin</strong></td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>
@@ -128,7 +130,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong>2. Miskin</strong></td>
+                    <td><strong>2. Jumlah Penduduk Miskin</strong></td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>
@@ -205,7 +207,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong>3. Hampir Miskin</strong></td>
+                    <td><strong>3. Jumlah Penduduk Hampir Miskin</strong></td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>
                     <td align="center" style="color: black">n/a</td>

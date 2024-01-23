@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak29') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak9') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/6/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -42,8 +42,8 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Lembaga Pendidikan </strong>
-						<select class="center" aria-label="Default select example">
+					<td><strong>Total Jumlah Lembaga Pendidikan </strong>
+						<!-- <select class="center" aria-label="Default select example">
 							<option selected>Open this select menu</option>
 							<option value="1">KB/PAUD</option>
 							<option value="2">TK</option>
@@ -51,14 +51,15 @@
 							<option value="4">SMP / Madrasah Tsanawiyah</option>
 							<option value="5">SMA / SMK / Madrasah Aliyah</option>
 							<option value="6">Perguruan Tinggi</option>
-						</select>
+						</select> -->
 					</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Buah</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
 				</tr>
 				<tr>
 					<td></td>

@@ -7,7 +7,7 @@
 
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak29') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak10') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/6/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -42,8 +42,8 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Lembaga Pendidikan </strong>
-						<select class="center" aria-label="Default select example">
+					<td><strong>Total Jumlah Siswa dan Guru</strong>
+						<!-- <select class="center" aria-label="Default select example">
 							<option selected>Open this select menu</option>
 							<option value="1">KB/PAUD</option>
 							<option value="2">TK</option>
@@ -51,17 +51,19 @@
 							<option value="4">SMP / Madrasah Tsanawiyah</option>
 							<option value="5">SMA / SMK / Madrasah Aliyah</option>
 							<option value="6">Perguruan Tinggi</option>
-						</select>
+						</select> -->
 					</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>1. Jumlah Murid <i> Negeri</i></strong></td>
+					<td><strong>1. Jumlah Murid Lembaga Pendidikan<i> Negeri</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -138,7 +140,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2. Jumlah Murid<i> Swasta</i></strong></td>
+					<td><strong>2. Jumlah Murid Lembaga Pendidikan<i> Swasta</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -215,7 +217,84 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>3. Julmlah Guru<i> Total</i></strong></td>
+					<td><strong>3. Jumlah Guru Lembaga Pendidikan <i> Negeri</i></strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan dan Kebudayaan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><strong>4. Jumlah Guru Lembaga Pendidikan <i> Swasta</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

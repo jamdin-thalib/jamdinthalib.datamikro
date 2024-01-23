@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak3') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak5') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 			</div>
@@ -42,17 +42,18 @@
 
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Penduduk Disabilitas</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td><strong>Total Jumlah Penduduk Disabilitas</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Jiwa</td>
+					<td width="170" align="center">Desa se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>1. Tuna Netra (Tidak dapat menglihat)</strong></td>
+					<td><strong>1. Jumlah Penduduk Tuna Netra (Tidak dapat menglihat)</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -129,7 +130,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2. Tuna Rungu (Tidak dapat mendengar)</strong></td>
+					<td><strong>2. Jumlah Penduduk Tuna Rungu (Tidak dapat mendengar)</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -206,7 +207,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>3. Tuna Wicara (Tidak dapat berbicara)</strong></td>
+					<td><strong>3. Jumlah Penduduk Tuna Wicara (Tidak dapat berbicara)</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -283,7 +284,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>4. Tuna Daksa (Cacat tubuh)</strong></td>
+					<td><strong>4. Jumlah Penduduk Tuna Daksa (Cacat tubuh)</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

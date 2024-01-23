@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak3') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak6') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 			</div>
@@ -42,17 +42,18 @@
 
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Penduduk Menurut Dokumen</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td><strong>Total Jumlah Penduduk Menurut Dokumen</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Dokumen</td>
+					<td width="170" align="center">Desa se Kab. Bolmut</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>1. Jumlah Dokumen Akte Lahir</strong></td>
+					<td><strong>1. Jumlah Penduduk Menurut Dokumen Akte Lahir</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -129,7 +130,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2. Jumlah Dokumen KIA</strong></td>
+					<td><strong>2. Jumlah Penduduk Menurut Dokumen KIA</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -206,7 +207,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>3. Jumlah Dokumen e-KTP</strong></td>
+					<td><strong>3. Jumlah Penduduk Menurut Dokumen e-KTP</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -283,7 +284,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>4. Jumlah Dokumen Kartu Keluarga</strong></td>
+					<td><strong>4. Jumlah Penduduk Menurut Dokumen Kartu Keluarga</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
