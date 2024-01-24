@@ -7,7 +7,7 @@
 
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak10') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak11') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/6/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -42,7 +42,7 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Total Jumlah Siswa dan Guru</strong>
+					<td><strong>Total Jumlah Guru dan Murid</strong>
 						<!-- <select class="center" aria-label="Default select example">
 							<option selected>Open this select menu</option>
 							<option value="1">KB/PAUD</option>

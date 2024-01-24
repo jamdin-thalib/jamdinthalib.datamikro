@@ -1,10 +1,10 @@
 <html>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/4 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="utf-8">
-	<title>E-DATABASE :: KOTA GORONTALO</title>
+	<title>DATA MIKRO :: BOLMUT</title>
 	<link href="../../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="../../../favicon.ico" />
 	<style type="text/css">
@@ -69,7 +69,7 @@
 		</div>
 		<div class="page-header">
 			<h3>SISTEM INFORMASI PEMBANGUNAN DAERAH</h3>
-			<h3>KOTA GORONTALO</h3>
+			<h3>KABUPATEN BOLAANG MONGONDOW UTARA PROVINSI SULAWESI UTARA</h3>
 		</div>
 		<table width="100%" cellspacing="0" cellpadding="0" border="0" class="noborder">
 			<tr>
@@ -77,7 +77,11 @@
 					<table class="noborder">
 						<tr>
 							<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
-							<td class="noborder" valign="top" colspan="7"><b>PEKERJAAN UMUM DAN PENATAAN RUANG</b></td>
+							<td class="noborder" valign="top" colspan="7"><b>KESEHATAN</b></td>
+						</tr>
+						<tr>
+							<td class="noborder" valign="top" width="110"><b> </b></td>
+							<td class="noborder" valign="top" colspan="12">Sasaran Imunisasi Bayi / Balita</td>
 						</tr>
 					</table>
 				</td>
@@ -89,61 +93,892 @@
 							<tr>
 								<th rowspan="2" width="30">#</th>
 								<th rowspan="2">JENIS DATA</th>
-								<th colspan="9">TAHUN</th>
+								<th colspan="5">TAHUN</th>
 								<th rowspan="2" width="90">SATUAN</th>
 							</tr>
-							<tr><th width="70">2014</th><th width="70">2015</th><th width="70">2016</th><th width="70">2017</th><th width="70">2018</th><th width="70">2019</th><th width="70">2020</th><th width="70">2021</th><th width="70">2022</th>
+							<tr>
+								<th width="70">2018</th>
+								<th width="70">2019</th>
+								<th width="70">2020</th>
+								<th width="70">2021</th>
+								<th width="70">2022</th>
 							</tr>
 						</thead>
-						<tbody><tr height="26" valign="top">
+						<tbody>
+								<tr height="26" valign="top">
 									<td width="30" align="center"><strong>IV.</strong></td>
-									<td width="280"><strong>Ketersediaan Air Baku</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-									<td></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">1. Sumber Air Baku Sungai</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Nama Sungai ? Kapasitas</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">2. Sumber Air Baku Waduk</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Nama Waduk ? Kapasitas</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">3. Sumber Air Baku Embung</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Nama Embung ? Kapasitas</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">4. Sumber Air Baku Danau/Situ</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Nama Danau/Situ ? Kapasitas</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">5. Sumber Air Baku Tampungan Air Lainnya</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Jumlah Tampungan Air Lainnya</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">2. Kapasitas Air Baku</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
+									<td width="280"><strong>Total Jumlah Sasaran Imunisasi Bayi / Balita</strong></td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
 								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">1. Jumlah Banyakya Bayi / Balita</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<!-- <tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">a. Jumlah Kelahiran Bayi</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr> -->
+
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">2. Pelayanan Imunisasi Bayi / Balita</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">a. Pelayanan Imunisasi Bcg</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">b. Pelayanan Imunisasi Dpt Hb Combo1</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">c. Pelayanan Imunisasi Dpt Hb Combo2</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">d. Pelayanan Imunisasi Dpt Hb Combo3</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">e. Pelayanan Imunisasi Polio 1</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">f. Pelayanan Imunisasi Polio 2</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">g. Pelayanan Imunisasi Polio 3</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">h. Pelayanan Imunisasi Polio 4</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">i. Pelayanan Imunisasi Campak</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">j. Pelayanan Imunisasi HB 1 < 7 hari</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">k. Pelayanan Imunisasi HB 1 > 7 hari</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Orang</td>
+								</tr>
+								
+
+								
 						</tbody>
 					</table>
 				</td>
@@ -165,5 +1000,5 @@
 		</table>	
 	</body>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/4 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 </html>

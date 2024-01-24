@@ -1,10 +1,10 @@
 <html>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/2 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="utf-8">
-	<title>E-DATABASE :: KOTA GORONTALO</title>
+	<title>DATA MIKRO :: BOLMUT</title>
 	<link href="../../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="../../../favicon.ico" />
 	<style type="text/css">
@@ -69,7 +69,7 @@
 		</div>
 		<div class="page-header">
 			<h3>SISTEM INFORMASI PEMBANGUNAN DAERAH</h3>
-			<h3>KOTA GORONTALO</h3>
+			<h3>KABUPATEN BOLAANG MONGONDOW UTARA PROVINSI SULAWESI UTARA</h3>
 		</div>
 		<table width="100%" cellspacing="0" cellpadding="0" border="0" class="noborder">
 			<tr>
@@ -77,7 +77,11 @@
 					<table class="noborder">
 						<tr>
 							<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
-							<td class="noborder" valign="top" colspan="7"><b>PEKERJAAN UMUM DAN PENATAAN RUANG</b></td>
+							<td class="noborder" valign="top" colspan="7"><b>KESEHATAN</b></td>
+						</tr>
+						<tr>
+							<td class="noborder" valign="top" width="110"><b> </b></td>
+							<td class="noborder" valign="top" colspan="12">Jaminan Kesehatan / Asuransi Kesehatan</td>
 						</tr>
 					</table>
 				</td>
@@ -89,116 +93,457 @@
 							<tr>
 								<th rowspan="2" width="30">#</th>
 								<th rowspan="2">JENIS DATA</th>
-								<th colspan="9">TAHUN</th>
+								<th colspan="5">TAHUN</th>
 								<th rowspan="2" width="90">SATUAN</th>
 							</tr>
-							<tr><th width="70">2014</th><th width="70">2015</th><th width="70">2016</th><th width="70">2017</th><th width="70">2018</th><th width="70">2019</th><th width="70">2020</th><th width="70">2021</th><th width="70">2022</th>
+							<tr>
+								<th width="70">2018</th>
+								<th width="70">2019</th>
+								<th width="70">2020</th>
+								<th width="70">2021</th>
+								<th width="70">2022</th>
 							</tr>
 						</thead>
-						<tbody><tr height="26" valign="top">
-									<td width="30" align="center"><strong>II.</strong></td>
-									<td width="280"><strong>Jaringan Irigasi/Pengairan</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-									<td></td>
-								</tr><tr valign="top">
+						<tbody>
+							<tr height="26" valign="top">
+								<td width="30" align="center"><strong>II.</strong></td>
+								<td width="280"><strong>Total Jumlah Jaminan Kesehatan / Asuransi Kesehatan</strong></td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">1. Jumlah Jamkesmas (PBI)</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">1. Panjang Jaringan Irigasi Non Teknis</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Saluran Kondisi Baik</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">2. Saluran Kondisi Sedang</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">3. Saluran Kondisi Rusak Ringan</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">4. Saluran Kondisi Rusak Berat</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">2. Panjang Jaringan Irigasi Teknis</td><td align="center" valign="top">100.33</td><td align="center" valign="top">108.33</td><td align="center" valign="top">108.33</td><td align="center" valign="top">108.33</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">2. Jumlah Jamsostek</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Panjang Saluran Irigasi Primer</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">1. Saluran Kondisi Baik</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">2. Saluran Kondisi Sedang</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">3. Saluran Kondisi Rusak Ringan</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">4. Saluran Kondisi Rusak Berat</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">2. Panjang Saluran Irigasi Sekunder</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">3. Jumlah KIS (PNS, TNI, Polri)</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">1. Saluran Kondisi Baik</td><td align="center" valign="top">27.53</td><td align="center" valign="top">27.53</td><td align="center" valign="top">27.532</td><td align="center" valign="top">27.53</td><td align="center" valign="top">27.53</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">2. Saluran Kondisi Sedang</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">3. Saluran Kondisi Rusak Ringan</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">4. Saluran Kondisi Rusak Berat</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:22px">3. Panjang Saluran Irigasi Tersier</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">1. Saluran Kondisi Baik</td><td align="center" valign="top">28.669</td><td align="center" valign="top">28.669</td><td align="center" valign="top">33.94</td><td align="center" valign="top">33.94</td><td align="center" valign="top">34.661</td><td align="center" valign="top">34.661</td><td align="center" valign="top">34.661</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">4. Jumlah Asusransi Swasta</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">2. Saluran Kondisi Sedang</td><td align="center" valign="top">44.314</td><td align="center" valign="top">44.314</td><td align="center" valign="top">39.835</td><td align="center" valign="top">39.835</td><td align="center" valign="top">39.835</td><td align="center" valign="top">39.835</td><td align="center" valign="top">39.835</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">3. Saluran Kondisi Rusak Ringan</td><td align="center" valign="top">5.213</td><td align="center" valign="top">5.213</td><td align="center" valign="top">4.686</td><td align="center" valign="top">4.686</td><td align="center" valign="top">4.165</td><td align="center" valign="top">4.165</td><td align="center" valign="top">4.165</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280" style="padding-left:38px">4. Saluran Kondisi Rusak Berat</td><td align="center" valign="top">2.606</td><td align="center" valign="top">2.606</td><td align="center" valign="top">2.343</td><td align="center" valign="top">2.343</td><td align="center" valign="top">2.143</td><td align="center" valign="top">2.143</td><td align="center" valign="top">2.143</td><td align="center" valign="top">n/a</td><td align="center" valign="top">n/a</td>
-									<td align="center" valign="top">Meter</td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">3. Jumlah Bangunan Irigasi</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">4. Luas Sawah Beririgasi Teknis</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">5. Luas Sawah Beririgasi Non Teknis</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">5. Jumlah Jamkesda</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
 									<td width="30"></td>
-									<td width="280">6. Luas Daerah Irigasi Teknis</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280" style="padding-left:22px">6. Jumlah Poskesdes</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+							<tr valign="top">
+								<td width="30"></td>
+								<td width="280">6. Jumlah Tidak Memiliki</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">n/a</td>
+								<td align="center" valign="top">Buah</td>
+							</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Buah</td>
 								</tr>
 						</tbody>
 					</table>
@@ -221,5 +566,5 @@
 		</table>	
 	</body>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/2 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 </html>

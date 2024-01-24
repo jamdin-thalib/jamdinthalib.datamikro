@@ -101,7 +101,7 @@
 					</tr>
 					<tr>
 						<td class="noborder" valign="top" width="110"><b> </b></td>
-						<td class="noborder" valign="top" colspan="12">Rasio Guru dan Murid</td>
+						<td class="noborder" valign="top" colspan="12">Jumlah Anak Menurut Usia Sekolah tapi tidak bersekolah</td>
 					</tr>
 				</table>
 			</td>
@@ -127,7 +127,7 @@
 					<tbody>
 						<tr height="26" valign="top">
 							<td width="30" align="center"><strong>I.</strong></td>
-							<td width="280"><strong>Total Jumlah Guru dan Murid</strong></td>
+							<td width="280"><strong>Total Jumlah Anak Menurut Usia Sekolah tapi tidak bersekolah</strong></td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -137,7 +137,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">1. Jumlah Murid Lembaga Pendidikan Negeri</td>
+							<td width="280" style="padding-left:22px">1. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 4-6 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -207,7 +207,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">2. Jumlah Murid Lembaga Pendidikan Swasta</td>
+							<td width="280">2. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 7-15 Tahun	</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -278,7 +278,7 @@
 						
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">3. Jumlah Guru Lembaga Pendidikan Negeri</td>
+							<td width="280">3.  Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 13-15 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -348,7 +348,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">4. Jumlah Guru Lembaga Pendidikan Swasta</td>
+							<td width="280">4. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 16-18 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>

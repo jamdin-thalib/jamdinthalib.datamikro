@@ -58,35 +58,35 @@ class Cetak extends BaseController
     }
     public function cetak12()
     {
-        echo view('frontend/profil/print/4/1');
+        echo view('frontend/profil/print/3/4');
     }
     public function cetak13()
     {
-        echo view('frontend/profil/print/4/2');
+        echo view('frontend/profil/print/3/5');
     }
     public function cetak14()
     {
-        echo view('frontend/profil/print/4/3');
+        echo view('frontend/profil/print/4/1');
     }
     public function cetak15()
     {
-        echo view('frontend/profil/print/4/4');
+        echo view('frontend/profil/print/4/2');
     }
     public function cetak16()
     {
-        echo view('frontend/profil/print/4/5');
+        echo view('frontend/profil/print/4/3');
     }
     public function cetak17()
     {
-        echo view('frontend/profil/print/4/6');
+        echo view('frontend/profil/print/4/4');
     }
     public function cetak18()
     {
-        echo view('frontend/profil/print/4/7');
+        echo view('frontend/profil/print/4/5');
     }
     public function cetak19()
     {
-        echo view('frontend/profil/print/4/8');
+        echo view('frontend/profil/print/4/6');
     }
     public function cetak20()
     {
