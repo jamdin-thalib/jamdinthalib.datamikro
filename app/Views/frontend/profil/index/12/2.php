@@ -42,7 +42,7 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Total Jumlah Siswa dan Guru</strong>
+					<td><strong>Total Jumlah Guru dan Murid</strong>
 						<!-- <select class="center" aria-label="Default select example">
 							<option selected>Open this select menu</option>
 							<option value="1">KB/PAUD</option>
@@ -63,7 +63,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>1. Jumlah Murid Lembaga Pendidikan<i> Negeri</i></strong></td>
+					<td><strong>1. Jumlah Guru Lembaga Pendidikan<i> Negeri</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -140,7 +140,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>2. Jumlah Murid Lembaga Pendidikan<i> Swasta</i></strong></td>
+					<td><strong>2. Jumlah Guru Lembaga Pendidikan<i> Swasta</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -217,7 +217,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>3. Jumlah Guru Lembaga Pendidikan <i> Negeri</i></strong></td>
+					<td><strong>3. Jumlah Murid Lembaga Pendidikan <i> Negeri</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -294,7 +294,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><strong>4. Jumlah Guru Lembaga Pendidikan <i> Swasta</i></strong></td>
+					<td><strong>4. Jumlah Murid Lembaga Pendidikan <i> Swasta</i></strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
