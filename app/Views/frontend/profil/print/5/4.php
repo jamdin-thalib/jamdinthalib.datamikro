@@ -4,7 +4,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="utf-8">
-	<title>E-DATABASE :: KOTA GORONTALO</title>
+	<title>DATA MIKRO :: BOLMUT</title>
 	<link href="../../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="../../../favicon.ico" />
 	<style type="text/css">
@@ -69,7 +69,7 @@
 		</div>
 		<div class="page-header">
 			<h3>SISTEM INFORMASI PEMBANGUNAN DAERAH</h3>
-			<h3>KOTA GORONTALO</h3>
+			<h3>KABUPATEN BOLAANG MONGONDOW UTARA PROVINSI SULAWESI UTARA</h3>
 		</div>
 		<table width="100%" cellspacing="0" cellpadding="0" border="0" class="noborder">
 			<tr>
@@ -77,7 +77,11 @@
 					<table class="noborder">
 						<tr>
 							<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
-							<td class="noborder" valign="top" colspan="7"><b>PERUMAHAN RAKYAT DAN KAWASAN PEMUKIMAN</b></td>
+							<td class="noborder" valign="top" colspan="7"><b>PENDIDIKAN</b></td>
+						</tr>
+						<tr>
+							<td class="noborder" valign="top" width="110"><b> </b></td>
+							<td class="noborder" valign="top" colspan="12">Penggunaan Lahan Bukan Sawah (Hektar)</td>
 						</tr>
 					</table>
 				</td>
@@ -89,101 +93,449 @@
 							<tr>
 								<th rowspan="2" width="30">#</th>
 								<th rowspan="2">JENIS DATA</th>
-								<th colspan="9">TAHUN</th>
+								<th colspan="5">TAHUN</th>
 								<th rowspan="2" width="90">SATUAN</th>
 							</tr>
-							<tr><th width="70">2014</th><th width="70">2015</th><th width="70">2016</th><th width="70">2017</th><th width="70">2018</th><th width="70">2019</th><th width="70">2020</th><th width="70">2021</th><th width="70">2022</th>
+							<tr>
+								<th width="70">2018</th>
+								<th width="70">2019</th>
+								<th width="70">2020</th>
+								<th width="70">2021</th>
+								<th width="70">2022</th>
 							</tr>
 						</thead>
-						<tbody><tr height="26" valign="top">
+						<tbody>
+							<tr height="26" valign="top">
 									<td width="30" align="center"><strong>IV.</strong></td>
-									<td width="280"><strong>Rumah Tangga Memiliki Air Bersih</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-									<td></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">1. Jumlah Rumah Tangga yang Terlayani Melalui Sistem Perpipaan</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Kota Barat</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">2. Kota Selatan</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">3. Kota Utara</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">4. Dungingi</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">5. Kota Timur</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">6. Kota Tengah</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">7. Sipatana</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">8. Dumbo Raya</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">9. Hulonthalangi</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">2. Jumlah Rumah Tangga yang Memanfaatkan Air Bawah Tanah</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">1. Kota Barat</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">2. Kota Selatan</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">3. Kota Utara</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">4. Dungingi</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">5. Kota Timur</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">6. Kota Tengah</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">7. Sipatana</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">8. Dumbo Raya</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280" style="padding-left:22px">9. Hulonthalangi</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
-								</tr><tr valign="top">
-									<td width="30"></td>
-									<td width="280">3. Persentase Rumah Tangga Terlayani Sistem Perpipaan</td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td>
-									<td align="center" valign="top"></td>
+									<td width="280"><strong>Total Jumlah Penggunaan Lahan Bukan Sawah (Hektar)</strong></td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
 								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">1. Jumlah Lahan Tegal / Kebun</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">2. Jumlah Lahan Ladang / Huma</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">3. Jumlah Lahan Perkebunan</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">4. Jumlah Lahan Hutan Rakyat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">5. Jumlah Lahan Hutan Negara</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280">6. Jumlah Lahan Tanah HGU</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								<tr valign="top">
+									<td width="30"></td>
+									<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">n/a</td>
+									<td align="center" valign="top">Ha</td>
+								</tr>
+								
 						</tbody>
 					</table>
 				</td>
