@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak10') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak15') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/3/2" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -27,14 +27,11 @@
 				<tr>
 					<th style="text-align:center" rowspan="2">#</th>
 					<th style="text-align:center" rowspan="2">Jenis Data</th>
-					<th style="text-align:center" colspan="8">Tahun</th>
+					<th style="text-align:center" colspan="5">Tahun</th>
 					<th style="text-align:center" rowspan="2">Satuan</th>
 					<th style="text-align:center" width="170" rowspan="2">Sumber</th>
 				</tr>
 				<tr>
-					<th style="text-align:center">2015</th>
-					<th style="text-align:center">2016</th>
-					<th style="text-align:center">2017</th>
 					<th style="text-align:center">2018</th>
 					<th style="text-align:center">2019</th>
 					<th style="text-align:center">2020</th>
@@ -45,17 +42,14 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>II.</strong></td>
-					<td><strong>Jaminan Kesehatan / Asuransi Kesehatan</strong></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td><strong>Total Jumlah Jaminan Kesehatan / Asuransi Kesehatan</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<!-- <tr>
 					<td></td>
@@ -71,7 +65,7 @@
 					<td align="center"></td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr> -->
-				<tr>
+				<!-- <tr>
 					<td></td>
 					<td><strong>II. Jumlah Jaminan Kesehatan / Asuransi Kesehatan</strong></td>
 					<td align="center" style="color: black">n/a</td>
@@ -84,405 +78,10 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
+				</tr> -->
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>a. Jumlah Jamkesmas (PBI)</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Buah</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:22px"><strong>b. Jumlah Jamsostek</strong></td>
-					<td align="center" style="color: black">71</td>
-					<td align="center" style="color: black">174</td>
-					<td align="center" style="color: black">76</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">13</td>
-					<td align="center" style="color: black">30</td>
-					<td align="center" style="color: black">8</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">8</td>
-					<td align="center" style="color: black">9</td>
-					<td align="center" style="color: black">8</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">4</td>
-					<td align="center" style="color: black">11</td>
-					<td align="center" style="color: black">10</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">20</td>
-					<td align="center" style="color: black">32</td>
-					<td align="center" style="color: black">14</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">14</td>
-					<td align="center" style="color: black">37</td>
-					<td align="center" style="color: black">9</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">5</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">19</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:22px"><strong>c. Jumlah KIS (PNS, TNI, Polri)</strong></td>
-					<td align="center" style="color: black">521</td>
-					<td align="center" style="color: black">993</td>
-					<td align="center" style="color: black">723</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">18</td>
-					<td align="center" style="color: black">27</td>
-					<td align="center" style="color: black">26</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">85</td>
-					<td align="center" style="color: black">127</td>
-					<td align="center" style="color: black">2</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">50</td>
-					<td align="center" style="color: black">52</td>
-					<td align="center" style="color: black">314</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">125</td>
-					<td align="center" style="color: black">101</td>
-					<td align="center" style="color: black">25</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">26</td>
-					<td align="center" style="color: black">249</td>
-					<td align="center" style="color: black">189</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">171</td>
-					<td align="center" style="color: black">404</td>
-					<td align="center" style="color: black">111</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:22px"><strong>d. Jumlah Asusransi Swasta</strong></td>
-					<td align="center" style="color: black">17</td>
-					<td align="center" style="color: black">45</td>
-					<td align="center" style="color: black">49</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">1</td>
-					<td align="center" style="color: black">12</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">1</td>
-					<td align="center" style="color: black">15</td>
-					<td align="center" style="color: black">16</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">2</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">2</td>
-					<td align="center" style="color: black">3</td>
-					<td align="center" style="color: black">9</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">4</td>
-					<td align="center" style="color: black">3</td>
-					<td align="center" style="color: black">10</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">5</td>
-					<td align="center" style="color: black">9</td>
-					<td align="center" style="color: black">7</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Orang</td>
-					<td width="170" align="center">Dinas Kesehatan</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:22px"><strong>e. Jumlah Jamkesda</strong></td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
+					<td style="padding-left:22px"><strong>1. Jumlah Jamkesmas (PBI)</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -499,18 +98,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -527,18 +120,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -555,6 +142,80 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:22px"><strong>2. Jumlah Jamsostek</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -567,6 +228,234 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:22px"><strong>3. Jumlah KIS (PNS, TNI, Polri)</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:22px"><strong>4. Jumlah Asusransi Swasta</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:22px"><strong>5. Jumlah Jamkesda</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Kesehatan</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -580,9 +469,6 @@
 					<td style="padding-left:22px"><strong>6. Jumlah Tidak Memiliki</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">24</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -592,9 +478,6 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -611,18 +494,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -639,9 +516,6 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
@@ -653,18 +527,12 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center">Orang</td>
 					<td width="170" align="center">Dinas Kesehatan</td>
 				</tr>
 				<tr>
 					<td></td>
 					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

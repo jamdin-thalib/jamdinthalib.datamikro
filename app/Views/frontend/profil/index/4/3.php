@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak12') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak24') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/4/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -42,24 +42,24 @@
 			<tbody>
 				<tr>
 					<td align="center"><strong>I.</strong></td>
-					<td><strong>Jumlah Alat Mesin Produksi Pertanian</strong></td>
+					<td><strong>Total Jumlah Alat Mesin Produksi Pertanian</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>1. Jumlah Traktor Roda Dua </td>
+					<td>1. Total Jumlah Traktor Roda Dua </td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -70,7 +70,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -81,7 +81,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -92,7 +92,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -103,7 +103,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -114,7 +114,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -125,7 +125,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -136,29 +136,29 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>2. Jumlah Traktor Roda Empat</td>
+					<td>2. Total Jumlah Traktor Roda Empat</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">1. Traktor Roda Empat Mini</td>
+					<td style="padding-left:22px">1. Jumlah Traktor Roda Empat Mini</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -169,7 +169,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -180,7 +180,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -191,7 +191,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -202,7 +202,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -213,7 +213,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -224,18 +224,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">2. Traktor Roda Empat Se</td>
+					<td style="padding-left:22px">2. Jumlah Traktor Roda Empat Se</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -246,7 +246,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -257,7 +257,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -268,7 +268,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -279,7 +279,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -290,7 +290,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -301,18 +301,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">3. Traktor Roda Empat Besar</td>
+					<td style="padding-left:22px">3. Jumlah Traktor Roda Empat Besar</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -323,7 +323,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -334,7 +334,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -345,7 +345,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -356,7 +356,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -367,7 +367,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -378,30 +378,30 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 
 				<tr>
 					<td></td>
-					<td>3. Jumlah Hand Sprayer </td>
+					<td>3. Total Jumlah Buahnd Sprayer </td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px">1. Jumlah Hand Sprayer</td>
+					<td style="padding-left:22px">1. Jumlah Buahnd Sprayer</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -412,7 +412,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -423,7 +423,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -434,7 +434,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -445,7 +445,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -456,7 +456,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -467,18 +467,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>4. Jumlah Mesin Panen </td>
+					<td>4. Total Jumlah Mesin Panen </td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -489,7 +489,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -500,7 +500,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -511,7 +511,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -522,7 +522,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -533,7 +533,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -544,7 +544,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -555,18 +555,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>5. Jumlah Mesin Prontok</td>
+					<td>5. Total Jumlah Mesin Prontok</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -577,7 +577,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -588,7 +588,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -599,7 +599,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -610,7 +610,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -621,7 +621,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -632,7 +632,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -643,7 +643,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -654,7 +654,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -665,7 +665,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -676,7 +676,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -687,7 +687,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -698,7 +698,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -709,7 +709,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -720,18 +720,18 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
 					<td></td>
-					<td>6. Jumlah Mesin Gilingan Padi</td>
+					<td>6. Total Jumlah Mesin Gilingan Padi</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -742,7 +742,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -753,7 +753,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -764,7 +764,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -775,7 +775,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -786,7 +786,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -797,7 +797,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 				<tr>
@@ -808,7 +808,7 @@
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
+					<td align="center">Buah</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
 			</tbody>

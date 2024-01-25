@@ -1,6 +1,10 @@
 <html>
 
+<<<<<<< HEAD
 <!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+=======
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -89,7 +93,11 @@
 	</div>
 	<div class="page-header">
 		<h3>SISTEM INFORMASI PEMBANGUNAN DAERAH</h3>
+<<<<<<< HEAD
 		<h3>KOTA GORONTALO</h3>
+=======
+		<h3>KABUPATEN BOLAANG MONGONDOW UTARA PROVINSI SULAWESI UTARA</h3>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 	</div>
 	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="noborder">
 		<tr>
@@ -97,7 +105,15 @@
 				<table class="noborder">
 					<tr>
 						<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
+<<<<<<< HEAD
 						<td class="noborder" valign="top" colspan="7"><b>KESEHATAN</b></td>
+=======
+						<td class="noborder" valign="top" colspan="7"><b>PENDIDIKAN</b></td>
+					</tr>
+					<tr>
+						<td class="noborder" valign="top" width="110"><b> </b></td>
+						<td class="noborder" valign="top" colspan="12">Rasio Guru dan Murid</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 					</tr>
 				</table>
 			</td>
@@ -109,6 +125,7 @@
 						<tr>
 							<th rowspan="2" width="30">#</th>
 							<th rowspan="2">JENIS DATA</th>
+<<<<<<< HEAD
 							<th colspan="9">TAHUN</th>
 							<th rowspan="2" width="90">SATUAN</th>
 						</tr>
@@ -117,6 +134,12 @@
 							<th width="70">2015</th>
 							<th width="70">2016</th>
 							<th width="70">2017</th>
+=======
+							<th colspan="5">TAHUN</th>
+							<th rowspan="2" width="90">SATUAN</th>
+						</tr>
+						<tr>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<th width="70">2018</th>
 							<th width="70">2019</th>
 							<th width="70">2020</th>
@@ -126,6 +149,7 @@
 					</thead>
 					<tbody>
 						<tr height="26" valign="top">
+<<<<<<< HEAD
 							<td width="30" align="center"><strong>III.</strong></td>
 							<td width="280"><strong>Sumber Daya Manusia (SDM) Kesehatan</strong></td>
 							<td></td>
@@ -2596,6 +2620,10 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="30" align="center"><strong>I.</strong></td>
+							<td width="280"><strong>Total Jumlah Guru dan Murid</strong></td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2605,6 +2633,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">1. Kota Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2624,6 +2653,9 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280">1. Jumlah Murid Lembaga Pendidikan Negeri</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2633,11 +2665,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">3. Kota Utara</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2647,11 +2683,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">4. Dungingi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2661,11 +2701,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">5. Kota Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2675,11 +2719,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">6. Kota Tengah</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2689,11 +2737,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">7. Sipatana</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2703,11 +2755,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">8. Dumbo Raya</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2717,11 +2773,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">9. Hulonthalangi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280">2. Jumlah Murid Lembaga Pendidikan Swasta</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2731,6 +2791,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280">7. Tenaga Kesehatan Tradisional</td>
 							<td align="center"></td>
 							<td align="center"></td>
@@ -2750,6 +2811,9 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2759,11 +2823,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">1. Kota Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2773,11 +2841,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">2. Kota Selatan</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2787,11 +2859,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">3. Kota Utara</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2801,11 +2877,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">4. Dungingi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2815,11 +2895,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">5. Kota Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2827,6 +2911,7 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">Orang</td>
 						</tr>
+<<<<<<< HEAD
 						<tr valign="top">
 							<td width="30"></td>
 							<td width="280" style="padding-left:38px">6. Kota Tengah</td>
@@ -2834,6 +2919,12 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+						
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280">3. Jumlah Guru Lembaga Pendidikan Negeri</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2843,11 +2934,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">7. Sipatana</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2857,11 +2952,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">8. Dumbo Raya</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2871,11 +2970,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">9. Hulonthalangi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2885,11 +2988,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:22px">2. Jumlah Tenaga Kesehatan Tradisional Ketrampilan</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2899,11 +3006,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">1. Kota Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2913,11 +3024,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">2. Kota Selatan</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2927,11 +3042,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">3. Kota Utara</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280">4. Jumlah Guru Lembaga Pendidikan Swasta</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2941,11 +3060,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">4. Dungingi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2955,11 +3078,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">5. Kota Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2969,11 +3096,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">6. Kota Tengah</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2983,11 +3114,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">7. Sipatana</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -2997,11 +3132,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">8. Dumbo Raya</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -3011,11 +3150,15 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
+<<<<<<< HEAD
 							<td width="280" style="padding-left:38px">9. Hulonthalangi</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
+=======
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -3023,6 +3166,10 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">Orang</td>
 						</tr>
+<<<<<<< HEAD
+=======
+						
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 					</tbody>
 				</table>
 			</td>
@@ -3043,7 +3190,13 @@
 		</tr>
 	</table>
 </body>
+<<<<<<< HEAD
 
 <!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 
+=======
+
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+
+>>>>>>> b697b20cb2c0cca476ea8bb7062144f3fde73a37
 </html>

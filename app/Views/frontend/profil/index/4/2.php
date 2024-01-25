@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak12') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak23') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/4/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -53,7 +53,18 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td>1. Jumlah Luas Sawah</td>
+					<td><strong> 1. Total Jumlah Luas Sawah </strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:20px">1. Jumlah Luas Sawah</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -130,7 +141,249 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td>2. Jumlah Ditanami Padi</td>
+					<td style="padding-left:20px">2. Jumlah Ditanami</td>
+					<td align=" center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:20px">3. Jumlah Tidak Ditanami</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><strong> 2. Total Jumlah Luas Perkebunan </strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:20px">1. Jumlah Luas Perkebunan</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>2. Jumlah Ditanami</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -282,83 +535,7 @@
 					<td align="center">Ha</td>
 					<td width="170" align="center">Dinas Pertanian</td>
 				</tr>
-				<tr>
-					<td></td>
-					<td>4. Jumlah Bendungan</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
-				<tr>
-					<td></td>
-					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center" style="color: black">n/a</td>
-					<td align="center">Ha</td>
-					<td width="170" align="center">Dinas Pertanian</td>
-				</tr>
+
 				<tr>
 					<td align="center"><strong>II.</strong></td>
 					<td><strong> Jumlah Pengairan Sawah yang ditanami padi </strong> </td>
@@ -604,6 +781,83 @@
 				<tr>
 					<td></td>
 					<td style="padding-left:22px">4. Tadah Hujan</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">1. Kecamatan Pinogaluman</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">2. Kecamatan Kaidipang</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">3. Kecamatan Bolangitang Barat</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">4. Kecamatan Bolangitang Timur</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">5. Kecamatan Bintauna</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:34px">6. Kecamatan Sangkub</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Ha</td>
+					<td width="170" align="center">Dinas Pertanian</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="padding-left:22px">5. Jumlah Bendungan</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

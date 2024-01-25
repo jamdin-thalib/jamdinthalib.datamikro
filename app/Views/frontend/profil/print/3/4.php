@@ -1,11 +1,11 @@
 <html>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/5/2 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;cBuahrset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-	<meta cBuahrset="utf-8">
+	<meta charset="utf-8">
 	<title>DATA MIKRO :: BOLMUT</title>
 	<link href="../../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link rel="shortcut icon" href="../../../favicon.ico" />
@@ -97,11 +97,11 @@
 				<table class="noborder">
 					<tr>
 						<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
-						<td class="noborder" valign="top" colspan="7"><b>Pertanian, Perkebunan, Peternakan dan Perikanan</b></td>
+						<td class="noborder" valign="top" colspan="7"><b>PENDIDIKAN</b></td>
 					</tr>
 					<tr>
 						<td class="noborder" valign="top" width="110"><b> </b></td>
-						<td class="noborder" valign="top" colspan="12">Alat Mesin Produksi Pertanian</td>
+						<td class="noborder" valign="top" colspan="12">Putus Sekolah</td>
 					</tr>
 				</table>
 			</td>
@@ -127,706 +127,666 @@
 					<tbody>
 						<tr height="26" valign="top">
 							<td width="30" align="center"><strong>I.</strong></td>
-							<td width="280"><strong>Total Jumlah Alat Mesin Produksi Pertanian</strong></td>
+							<td width="280"><strong>Total Jumlah Putus Sekolah SD Sederajat</strong></td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">1. Total Jumlah Traktor Roda Dua</td>
+							<td width="280">1. Jumlah Putus Sekolah 7-13 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Traktor Roda Dua</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280">2. Jumlah Putus Sekolah 13-15 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
-
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">2. Total Jumlah Traktor Roda Empat</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Traktor Roda Empat Mini</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
+						
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280">3. Jumlah Putus Sekolah 16-18 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">2. Jumlah Traktor Roda Empat Se</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280">4. Jumlah Putus Sekolah 19-59 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">3. Jumlah Traktor Roda Empat Besar</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
-						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
-						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280">3. Total Jumlah Buahnd Sprayer</td>
+						
+						<tr height="26" valign="top">
+							<td width="30" align="center"><strong>II.</strong></td>
+							<td width="280"><strong>Total Jumlah Putus Sekolah SMP Sederajat</strong></td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Buahnd Sprayer</td>
+							<td width="280">1. Jumlah Putus Sekolah 13-15 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">4. Total Jumlah Mesin Panen</td>
+							<td width="280">2. Jumlah Putus Sekolah 16-18 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Mesin Panen</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280">3. Jumlah Putus Sekolah 19-59 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">5. Total Jumlah Mesin Prontok</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Mesin Prontok</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
-						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
-						</tr>
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:22px">2. Jumlah Mesin Jagung</td>
+						<tr height="26" valign="top">
+							<td width="30" align="center"><strong>III.</strong></td>
+							<td width="280"><strong>Total Jumlah Putus Sekolah SMA Sederajat</strong></td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280">1. Jumlah Putus Sekolah 16-18 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">6. Total Jumlah Mesin Gilingan Padi</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:22px">1. Jumlah Mesin Gilingan Padi</td>
+							<td width="280">2. Jumlah Putus Sekolah 19-59 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Buah</td>
+							<td align="center" valign="top">Orang</td>
 						</tr>
-
 					</tbody>
 				</table>
 			</td>
@@ -848,6 +808,6 @@
 	</table>
 </body>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/5/2 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 
 </html>

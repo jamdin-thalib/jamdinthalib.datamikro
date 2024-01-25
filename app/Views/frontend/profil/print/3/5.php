@@ -1,6 +1,6 @@
 <html>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -97,11 +97,11 @@
 				<table class="noborder">
 					<tr>
 						<td class="noborder" valign="top" width="110"><b>BIDANG URUSAN : </b></td>
-						<td class="noborder" valign="top" colspan="7"><b>KESEHATAN</b></td>
+						<td class="noborder" valign="top" colspan="7"><b>PENDIDIKAN</b></td>
 					</tr>
 					<tr>
 						<td class="noborder" valign="top" width="110"><b> </b></td>
-						<td class="noborder" valign="top" colspan="12">Kejadian Gizi Kurang, Gizi Buruk, Stunting</td>
+						<td class="noborder" valign="top" colspan="12">Jumlah Anak Menurut Usia Sekolah tapi tidak bersekolah</td>
 					</tr>
 				</table>
 			</td>
@@ -126,8 +126,8 @@
 					</thead>
 					<tbody>
 						<tr height="26" valign="top">
-							<td width="30" align="center"><strong>V.</strong></td>
-							<td width="280"><strong>Total Jumlah Kejadian Gizi Kurang, Gizi Buruk, Stunting</strong></td>
+							<td width="30" align="center"><strong>I.</strong></td>
+							<td width="280"><strong>Total Jumlah Anak Menurut Usia Sekolah tapi tidak bersekolah</strong></td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -137,18 +137,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">1. Jumlah Giji Kurang</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Orang</td>
-						</tr>
-
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">1. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 4-6 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -158,7 +147,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -168,7 +157,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -178,7 +167,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -188,7 +177,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -198,29 +187,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Orang</td>
-						</tr>
-
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280">2. Jumlah Giji Buruk</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Orang</td>
-						</tr>
-
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -230,7 +197,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -240,7 +207,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280">2. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 7-15 Tahun	</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -250,7 +217,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -260,7 +227,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -270,7 +237,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -280,18 +247,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280">3. Jumlah Stunting</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">n/a</td>
-							<td align="center" valign="top">Orang</td>
-						</tr>
-
-						<tr valign="top">
-							<td width="30"></td>
-							<td width="280" style="padding-left:35px">1. Kecamatan Pinogaluman</td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -301,7 +257,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">2. Kecamatan Kaidipang</td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -311,7 +267,18 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">3. Kecamatan Bolangitang Barat</td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280">3.  Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 13-15 Tahun</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -321,7 +288,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">4. Kecamatan Bolangitang Timur</td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -331,7 +298,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">5. Kecamatan Bintauna</td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -341,7 +308,7 @@
 						</tr>
 						<tr valign="top">
 							<td width="30"></td>
-							<td width="280" style="padding-left:35px">6. Kecamatan Sangkub</td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">n/a</td>
@@ -349,7 +316,107 @@
 							<td align="center" valign="top">n/a</td>
 							<td align="center" valign="top">Orang</td>
 						</tr>
-
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280">4. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia 16-18 Tahun</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">1. Kecamatan Pinogaluman</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">2. Kecamatan Kaidipang</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">3. Kecamatan Bolangitang Barat</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">4. Kecamatan Bolangitang Timur</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">5. Kecamatan Bintauna</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						<tr valign="top">
+							<td width="30"></td>
+							<td width="280" style="padding-left:22px">6. Kecamatan Sangkub</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">n/a</td>
+							<td align="center" valign="top">Orang</td>
+						</tr>
+						
 					</tbody>
 				</table>
 			</td>
@@ -371,6 +438,6 @@
 	</table>
 </body>
 
-<!-- Mirrored from edata.gorontalokota.go.id/profil/print/4/3 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
+<!-- Mirrored from edata.gorontalokota.go.id/profil/print/3/1 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jun 2022 06:08:37 GMT -->
 
 </html>

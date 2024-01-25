@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak9') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak14') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/3/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -53,7 +53,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>a. Jumlah Rumah Sakit</strong></td>
+					<td style="padding-left:22px"><strong>1. Jumlah Rumah Sakit</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -130,7 +130,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>b. Jumlah PKM</strong></td>
+					<td style="padding-left:22px"><strong>2. Jumlah PKM</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -207,7 +207,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>c. Jumlah Tempat Prakter Dokter</strong></td>
+					<td style="padding-left:22px"><strong>3. Jumlah Tempat Prakter Dokter</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -284,7 +284,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>d. Jumlah Klinik Bersalin</strong></td>
+					<td style="padding-left:22px"><strong>4. Jumlah Klinik Bersalin</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
@@ -361,7 +361,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td style="padding-left:22px"><strong>e. Jumlah Pustu</strong></td>
+					<td style="padding-left:22px"><strong>5. Jumlah Pustu</strong></td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>
 					<td align="center" style="color: black">n/a</td>

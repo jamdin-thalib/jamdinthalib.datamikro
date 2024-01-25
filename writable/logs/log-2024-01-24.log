@@ -1,0 +1,8 @@
+CRITICAL - 2024-01-24 20:59:44 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\jamdinthalib.datamikro\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('cetak/cetak22')
+#1 C:\xampp\htdocs\jamdinthalib.datamikro\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('cetak/cetak22')
+#2 C:\xampp\htdocs\jamdinthalib.datamikro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\jamdinthalib.datamikro\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jamdinthalib.datamikro\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jamdinthalib.datamikro\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

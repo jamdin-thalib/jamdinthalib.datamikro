@@ -7,7 +7,7 @@
 		</div>
 		<div class="right">
 			<div style="text-align: right;padding: 5px 0 5px;">
-				<a href="<?= base_url('cetak/cetak29') ?>" target="_blank" class="btn_style">
+				<a href="<?= base_url('cetak/cetak13') ?>" target="_blank" class="btn_style">
 					<img src="../../../themes/v2/images/print.gif" alt="" /> Print
 				</a>
 				<!--<a href="http://edata.gorontalokota.go.id/profil/export_excel/6/1" class="btn_style"><img src="http://edata.gorontalokota.go.id/themes/v2/images/excel.png" alt=""/> Export to Excel</a>-->
@@ -40,6 +40,17 @@
 				</tr>
 			</thead>
 			<tbody>
+				<tr>
+					<td align="center"><strong>I.</strong></td>
+					<td><strong>Total Jumlah Anak Menurut Usia Sekolah tapi tidak bersekolah</strong></td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center" style="color: black">n/a</td>
+					<td align="center">Orang</td>
+					<td width="170" align="center">Dinas Pendidikan </td>
+				</tr>
 				<tr>
 					<td></td>
 					<td><strong>1. Jumlah Anak Usia Sekolah tapi tidak bersekolah menurut usia<i> 4-6 Tahun</i></strong></td>
